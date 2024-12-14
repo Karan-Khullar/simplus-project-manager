@@ -1,1 +1,1 @@
-# ai-git-repo-template
+# simplus-project-manager
