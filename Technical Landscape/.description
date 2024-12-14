@@ -1,1 +1,1 @@
-Will contain all orgs and environments for this client. Should contain the most up to date salesforce metadata details for each org as well, where possible.
+Contains all orgs and environments for this client, including the most up to date salesforce metadata details for each org where possible
